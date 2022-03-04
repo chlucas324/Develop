@@ -1,10 +1,10 @@
 # Refactored Horiseon code
 
-##Web application for Horiseon Social Solution Services that has been refactored.  
+## Web application for Horiseon Social Solution Services that has been refactored.  
 
 Updates include adding alt attributes for image elements, adding a title, and changing source code to have semantic HTML elements.  
 
-##Assets
+## Assets
 
 The following image demonstrates the appearance:
 
